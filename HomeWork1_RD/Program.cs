@@ -1,19 +1,15 @@
-﻿Console.WriteLine("         _nnnn_                      ");
-Console.WriteLine("        dGGGGMMb     ,\"\"\"\"\"\"\"\"\"\"\"\"\"\"\".");
-Console.WriteLine("       @p~qp~~qMb    | Linux Rules! |");
-Console.WriteLine("       M|@||@) M|   _;..............'");
-Console.WriteLine("       @,----.JM| -'");
-Console.WriteLine("      JS^\\__/  qKL");
-Console.WriteLine("     dZP        qKRb");
-Console.WriteLine("    dZP          qKKb");
-Console.WriteLine("   fZP            SMMb");
-Console.WriteLine("   HZM            MMMM");
-Console.WriteLine("   FqM            MMMM");
-Console.WriteLine(" __| \".        |\\dS\"qML");
-Console.WriteLine(" |    `.       | `' \\Zq");
-Console.WriteLine("_)      \\.___.,|     .'");
-Console.WriteLine("\\____   )MMMMMM|   .'");
-Console.WriteLine("     `-'       `--'   ");
-
+﻿Console.WriteLine("                      .-.");
+Console.WriteLine("         heehee      /aa \\_");
+Console.WriteLine("                   __\\-  / )                 .-.");
+Console.WriteLine("         .-.      (__/    /        haha    _/oo \\");
+Console.WriteLine("       _/ ..\\       /     \\               ( \\v  /__");
+Console.WriteLine("      ( \\  u/__    /       \\__             \\/   ___)");
+Console.WriteLine("       \\    \\__)   \\_.-._._   )  .-.       /     \\");
+Console.WriteLine("       /     \\             `-`  / ee\\_    /       \\_");
+Console.WriteLine("    __/       \\               __\\  o/ )   \\_.-.__   )");
+Console.WriteLine("   (   _._.-._/     hoho     (___   \\/           '-'");
+Console.WriteLine("jgs '-'                        /     \\");
+Console.WriteLine("                             _/       \\    teehee");
+Console.WriteLine("                            (   __.-._/");
 
 Console.ReadLine();
