@@ -1,0 +1,43 @@
+# Visual Studio / Rider files
+.vs/
+.idea/
+*.sln.iml
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+_ReSharper*/
+
+# Build output
+/bin/
+/obj/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+/packages/
+
+# MSTest test Results
+/TestResults/
+
+# User-specific files
+*.userprefs
+*.suo
+*.user
+
+# Resharper-specific files
+_ReSharper.*/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Cache directories
+# (Rider-specific)
+.Rider/
+.CSharpRider/
+.coverage/
+.nuget/
+.vscode/

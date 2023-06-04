@@ -1,0 +1,15 @@
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/bin/Debug/net7.0/HomeWork1_RD
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/bin/Debug/net7.0/HomeWork1_RD.deps.json
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/bin/Debug/net7.0/HomeWork1_RD.runtimeconfig.json
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/bin/Debug/net7.0/HomeWork1_RD.dll
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/bin/Debug/net7.0/HomeWork1_RD.pdb
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/obj/Debug/net7.0/HomeWork1_RD.csproj.AssemblyReference.cache
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/obj/Debug/net7.0/HomeWork1_RD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/obj/Debug/net7.0/HomeWork1_RD.AssemblyInfoInputs.cache
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/obj/Debug/net7.0/HomeWork1_RD.AssemblyInfo.cs
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/obj/Debug/net7.0/HomeWork1_RD.csproj.CoreCompileInputs.cache
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/obj/Debug/net7.0/HomeWork1_RD.dll
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/obj/Debug/net7.0/refint/HomeWork1_RD.dll
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/obj/Debug/net7.0/HomeWork1_RD.pdb
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/obj/Debug/net7.0/HomeWork1_RD.genruntimeconfig.cache
+/Users/norestwithwest/C-Sharp/HomeWork1_RD/HomeWork1_RD/obj/Debug/net7.0/ref/HomeWork1_RD.dll
